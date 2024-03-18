@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksgr3g0ry" alt="ksgr3g0ry" /></a> </p>
 
-- I currently server in the US Military in the Cybersecurity realm
+- :dollar: I currently serve in the US Military in the Cybersecurity realm
   
 - 🌱 I’m currently learning **Frontend development, Cybersecurity Engineering and Ethical Hacking**
 
